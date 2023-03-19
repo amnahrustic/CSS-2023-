@@ -1,0 +1,46 @@
+.searchDiv {
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.searchRecipe {
+    align-items: center;
+    margin: 100px;
+    height: 30px;
+    width: 200px;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.recipeCard {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100%;
+    color: white;
+}
+
+.card {
+    text-decoration-color: #cccccc;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 20px;
+}
+.body {
+    background-image: url("https://yorkshirefoodguide.co.uk/wp-content/uploads/2020/02/Prashad-Cookery-Class-veg-curry.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.search-button{
+    background-color: white;
+}
+.drinks-button{
+    background-color: white;
+}
+
+
